@@ -14,6 +14,7 @@ exact tools and a memory you own. No app to build, no one to hand it off to, no 
 |---|---|
 | [finanzas-personales](https://github.com/howware/finanzas-personales) | Personal finances without an app: statements, categories that learn, budgets, card payments |
 | [todo](https://github.com/howware/todo) | Getting Things Done without an app: capture, clarify, what to do now, weekly review |
+| [facturacion](https://github.com/howware/facturacion) | Invoicing for Mexican freelancers: bank deposits become the invoices to issue, checked against what was stamped |
 
 | Adapters | Shared by howwares; they connect them to documents and data, keeping personal data at the edge |
 |---|---|
