@@ -17,6 +17,7 @@ exact tools and a memory you own. No app to build, no one to hand it off to, no 
 | [facturacion](https://github.com/howware/facturacion) | Invoicing for Mexican freelancers: bank deposits become the invoices to issue, checked against what was stamped |
 | [arrendamiento](https://github.com/howware/arrendamiento) | Rentals for landlords: rent checked against the bank statements, and everything pending around the house in one list |
 | [repaso](https://github.com/howware/repaso) | Learn and don't forget: the agent makes the cards, quizzes you a few minutes a day and schedules each review with FSRS |
+| [bitacora](https://github.com/howware/bitacora) | Habit trackers and a monthly reflection, like a bullet journal without an app |
 
 | Adapters | Shared by howwares; they connect them to documents and data, keeping personal data at the edge |
 |---|---|
